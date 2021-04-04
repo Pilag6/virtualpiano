@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  background-image: url(../piano-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.title-gral {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.title, .keyboard {
+  font-family: 'Londrina Solid',
+  cursive;
+  font-size: 50px;
+  color: #fff;
+  text-shadow: 0px 0px 20px #000;
+  padding-bottom: 10px;
+  border-bottom: 2px dashed #000;
+  margin-right: 700px;
+}
+
+
+.keyboard {
+  border-bottom: 0;
+  color: #000;
+  text-shadow: 0px 0px 20px #fff;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.keys {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  position: relative;
+}
+
+.key {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column;
+  width: 100px;
+  height: 420px;
+  /* margin: 10px; */
+  font-family: 'Londrina Solid', cursive;
+  border: 5px solid #000;
+  background-color: #fff;
+  color: #000;
+  backdrop-filter: blur(10px);
+  box-shadow: rgba(255, 255, 255, 0.56) 0px 0px 10px 4px;
+  transition: all 0.07s;
+}
+
+
+.playing {
+  transform: scale(1.2);
+  border-color: #333;
+  box-shadow: 0 0 20px #fff;
+}
+
+.sound {
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #000;
+  margin-top: 30px;
+}
+
+.hash1 {
+  background-color: #000;
+  color: #fff;
+  height: 220px;
+  width: 70px;
+  position: absolute;
+}
+
+.hash {
+  color: #fff;
+}
+
+.credits {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 0px 0px 10px #fff;
+  margin-top: 50px;
+  font-family: 'Londrina Solid',
+  cursive;
+  margin-left: 900px;
+}
+
+.la {
+  left: 50px;
+}
+
+.do {
+  left:250px;
+}
+
+.re {
+  left:350px;
+}
+
+.fa {
+  left: 550px;
+}
+
+.sol {
+  left: 650px;
+  
+}
+
+.la1 {
+  left: 750px;
+}
+
+.do1 {
+  left: 950px;
+}
+
+.re1 {
+  left: 1050px;
+}
+
+.fa1 {
+  left: 1250px;
+}
+
+.sol1 {
+  left: 1350px;
+  width: 50px;
+}
