@@ -9,30 +9,30 @@ Notes:
 
 FIRST OCTAVE
 
-A : q    
+A  : q    
 A#: 2    
-B : w     
-C : e    
+B  : w     
+C  : e    
 C#: 3    
-D : r    
+D  : r    
 D#: 4    
-E : t     
-F : y    
+E  : t     
+F  : y    
 F#: 5    
-G : u    
+G  : u    
 G#: 6    
 
 SECOND OCTAVE
 
-A : z    
+A  : z    
 A#: a     
-B : x     
-C : c    
+B  : x     
+C  : c    
 C#: s     
-D : v    
+D  : v    
 D#: d       
-E : b    
-F : n        
+E  : b    
+F  : n        
 F#: f         
-G : m        
+G  : m        
 G#: g     
