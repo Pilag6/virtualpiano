@@ -19,7 +19,7 @@ D#: 4
 E: t     
 F: y    
 F#: 5    
-G: u |   
+G: u    
 G#: 6    
 
 SECOND OCTAVE
@@ -30,9 +30,9 @@ B: x
 C: c    
 C#: s     
 D: v    
-D#: d     
-E: b 
-F: n    
-F#: f     
-G: m    
+D#: d       
+E: b    
+F: n        
+F#: f         
+G: m        
 G#: g     
