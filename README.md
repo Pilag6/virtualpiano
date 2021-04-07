@@ -9,13 +9,18 @@ Notes:
 
 FIRST OCTAVE
 
-A: q |   A#: 2 |
+A: q |   
+A#: 2 |   
 B: w |    
-C: e |   C#: 3 |
-D: r |   D#: 4 |
-E: t |
-F: y |   F#: 5 |
-G: u |   G#: 6 |
+C: e |   
+C#: 3 |   
+D: r |   
+D#: 4 |   
+E: t |    
+F: y |   
+F#: 5 |   
+G: u |   
+G#: 6 |   
 
 SECOND OCTAVE
 
